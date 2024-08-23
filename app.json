@@ -1,7 +1,8 @@
 {
   "expo": {
     "name": "SELFY",
-    "slug": "SELFY",
+    "slug": "selfy",
+    "scheme": "selfy",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -13,6 +14,7 @@
     },
     "ios": {
       "supportsTablet": true
+      
     },
     "android": {
       "adaptiveIcon": {
@@ -21,7 +23,11 @@
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
-    }
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ]
   }
 }
