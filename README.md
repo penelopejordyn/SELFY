@@ -12,10 +12,10 @@ Features
 
 Technology Stack
 
-	•	Frontend: React Native
+	•	Frontend: React Native ionic
 	•	Navigation: React Navigation
 	•	State Management: React Hooks, Context API
-	•	Backend: (To be added when available)
+	•	Backend: firebase
 	•	API Integration: (To be added when available)
 	•	Deployment: Expo for development and testing, EAS for production builds
 	•	Other Tools: Lottie for animations, AsyncStorage for local storage
