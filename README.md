@@ -1,6 +1,6 @@
-SELFY App
+TREK App
 
-SELFY (Set Earnings, Live Free, Yield) is a free-market rideshare and package delivery platform where drivers have the freedom to set their own rates and keep 100% of their earnings. Riders can choose from a range of drivers based on price, ratings, and availability, creating a competitive and user-driven market.
+TREK is a free-market rideshare and package delivery platform where drivers have the freedom to set their own rates and keep 100% of their earnings. Riders can choose from a range of drivers based on price, ratings, and availability, creating a competitive and user-driven market.
 
 Features
 
